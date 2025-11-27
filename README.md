@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning Robotics \n
-If u want to know some of my robot code I can explain u some feel free to ask. \n
-I'm not the best,but I never stops improving.
+- 🌱 I’m currently learning Robotics.
+- If u want to know some of my robot code I can explain u some feel free to ask.
+- I'm not the best,but I never stops improving.
 
 
 
