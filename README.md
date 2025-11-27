@@ -1,5 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Robotics
+If u want to know some of my robot code I can explain u some feel free to ask.
+I'm not the best,but I never stops improving.
+
 
 
 # 💻 Tech Stack:
